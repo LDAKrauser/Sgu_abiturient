@@ -6,7 +6,7 @@ bot = Bot(TOKEN_API)
 dp = Dispatcher(bot)
 
 HELP_COMMAND = """
-/help - список команд
+/help - список команд негры
 /description - описание бота
 /open_door - Дни открытых дверей 2023
 """
