@@ -1,4 +1,4 @@
-git config --global user.name "Your Name"from aiogram import Bot, Dispatcher, executor, types
+from aiogram import Bot, Dispatcher, executor, types
 from config import TOKEN_API
 from keyboard import kb_start, ikb_faculty
 
